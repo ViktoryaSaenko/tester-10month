@@ -24,7 +24,10 @@
   <li>написать отчет о результатах тестирования</li>
 </ol>
 
-> Ссылка на проект: {link_to_project}
+> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
+> <p> логин: dehico8286@fsouda.com </p>
+> <p> пароль: 16Jan2023 </p>
+
 
 <br> 
 

@@ -24,7 +24,7 @@
   <li>написать отчет о результатах тестирования</li>
 </ol>
 
-> <a href="https://www.example.com/my great page](https://eff.org](https://fogen.notion.site/fogen/27-05-22-12-22-QA-Engineer-82f93b5a6fe3444ab02f9ef1d6918218">Ссылка на проект</a>
+> Ссылка на проект: {link_to_project}
 
 <br> 
 
@@ -62,7 +62,7 @@
   <li>написать отчет о результатах тестирования</li>
 </ol>
 
-> Ссылка на проект: {link_to_project}
+> <a href="https://www.example.com/my great page](https://eff.org](https://fogen.notion.site/fogen/27-05-22-12-22-QA-Engineer-82f93b5a6fe3444ab02f9ef1d6918218">Ссылка на проект</a>
 <br> 
 
 

@@ -53,8 +53,9 @@
   <li>подготовить отчет о тестировании (со ссылками на баг-репорты, если они найдены)</li>
 </ol>
 
-> Ссылка на проект: {link_to_project}
+> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://fogen.notion.site/fogen/3-Mobile-Charles-044a1edfbda44d10bd029acae08e005e">Ссылка на проект</a>
 <br> 
+
 
 <p>Проект 4: тест веб-приложения для учителей от Skyeng </p> 
 <p>Что нужно было сделать:<p>

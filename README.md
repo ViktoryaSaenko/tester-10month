@@ -40,7 +40,7 @@
   <li>написать отчет о результатах тестирования</li>
 </ol>
 
-> Ссылка на проект: {link_to_project}
+>  <a href="https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f">Ссылка на проект</a>
 <br> 
 
 <p> Проект 3: тест приложения Skyeng для изучения английского языка</p>

@@ -1,6 +1,6 @@
 # Портфолио: инженер по тестированию
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div> 
 
 ## :woman_technologist:Обо мне 
@@ -61,7 +61,7 @@
 
 <p>Выводы (итоги):<p>
 <ol>
-  <li>Получила практику работы в команде, поняла распределение ролей в команде.</li>
+  <li>:superhero_man:Получила практику работы в команде, поняла распределение ролей в команде.</li>
   <li>Освоила работу с эмулятором в AndroidStudio и Charles.</li>
 </ol>
 
@@ -84,7 +84,7 @@
 
 <p>Выводы (итоги):<p>
 <ol>
-  <li>Провела полный цикл тестирования продукта</li>
+  <li>:muscle:Провела полный цикл тестирования продукта</li>
   <li></li>
 </ol>
 
@@ -93,4 +93,3 @@
 
 ## Контактная информация
 - Email: saenkofa12@gmail.com
-- 
